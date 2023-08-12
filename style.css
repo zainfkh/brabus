@@ -570,7 +570,7 @@ footer{
     .g63{
         width: 200%;
     }
-    .slider-container{
+    .sld-1{
         margin-top: 960%;
     }
     .marine{
@@ -592,5 +592,11 @@ footer{
     }
     .part8{
         width: 200%;
+    }
+    .sld-2{
+        margin-top: 690%;
+    }
+    .img-box img{
+        max-width: 100%;
     }
 }
