@@ -534,12 +534,16 @@ footer{
     .categories{
         padding: 0 0;
     }
+    .part3{
+        width: 200%;
+    }
         .part3 .card {
             width: 100%;
             margin-bottom: 20px;
     }
     .cardbtn button {
         width: 50%;
+        margin-top: 0%;
     }
     .boxs{
         display: flex;
@@ -548,16 +552,23 @@ footer{
         align-items: center;
     }
     .night{
-        margin-top: 170%;
+        margin-top: 265%;
+        width: 200%;
     }
     .part5{
-        padding-top: 185%;
+        padding-top: 283%;
+    }
+    .g63{
+        width: 200%;
     }
     .slider-container{
-        margin-top: 300%;
+        margin-top: 555%;
     }
     .marine{
         margin-top: 60%;
+    }
+    .porsche{
+        width: 200%;
     }
     .swiper-button-next,
     .swiper-button-prev {
@@ -565,5 +576,11 @@ footer{
     }
     .container1 {
         width: 100%;
+    }
+    .part6{
+        width: 200%;
+    }
+    .part8{
+        width: 200%;
     }
 }
