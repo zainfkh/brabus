@@ -530,9 +530,13 @@ footer{
 @media (max-width: 767px) {
     .carousel-item {
         height: 100vh;
+        width: 200% !important;
+    }
+    .part1{
+        width: 210%;
     }
     .categories{
-        padding: 0 0;
+        gap: 6rem;
     }
     .part3{
         width: 200%;
